@@ -1,1 +1,1 @@
-# ApartmanY-netimSistemi
+# ApartmanYönetimSistemi
